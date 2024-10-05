@@ -33,7 +33,7 @@ The detailed data cleaning process, including the following steps, is documented
 
 
 ## Questions for Analysis
-1. What is the global recovery rate? recovered/total cases
+1. What is the global recovery rate? recovered/total cases?
    
 2. How does the death to recovery rate vary across different countries/countinents? Do countries with more tests per million population have better recovery rates?
 
